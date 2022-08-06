@@ -1,0 +1,16 @@
+body {
+    font-family: 'Noto Sans', sans-serif;
+    background-color: #F4F3F5;
+    color: #7A8528;
+}
+
+body.home main div,
+body.home footer div {
+    text-align: center;
+    font-size: 32px;
+    margin: 30px auto;
+}
+
+body.home footer {
+    margin-top: 100px;
+}
